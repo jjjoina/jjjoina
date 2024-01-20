@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ihnhwa8362)](https://solved.ac/ihnhwa8362)
+
 <!--
 **jjjoina/jjjoina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
