@@ -1,7 +1,7 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:86fde8&fontColor=ffffff&height=300&section=header&text=Inhwa%20Cho&fontSize=90)
-# 📚 STACKS
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:86fde8&fontColor=ffffff&height=250&section=header&text=Inhwa%20Cho&fontSize=90)
+# 📚 Stacks
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -28,15 +28,21 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:86fde8&fontColor=ffffff&height=150&section=footer)
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=jjjoina&show_icons=true&theme=swift">
-<br>
 <br>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ihnhwa8362)](https://solved.ac/ihnhwa8362)
-
+# ✨ Stats
+[![jjjoina's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjjoina&show_icons=true&theme=shadow_green)](https://github.com/jjjoina)
+&nbsp;&nbsp;&nbsp;
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ihnhwa8362">
+<br><br><br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjjoina&count_bg=%2377DD77&title_bg=%23555555&icon=iconify.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+# 📬 Contact Me
+
 
 </div>
 
