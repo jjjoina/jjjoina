@@ -17,6 +17,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
 <!--
 ## Stacks
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -39,10 +40,16 @@
 &nbsp;&nbsp;&nbsp;
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ihnhwa8362">
 <br><br><br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjjoina&count_bg=%2377DD77&title_bg=%23555555&icon=iconify.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # 📬 Contact Me
+<!--
+<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+-->
+<a href="https://velog.io/@jjjoina/posts"><img src="https://img.shields.io/badge/tech%20blog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
+<!--<img src="https://img.shields.io/badge/ihnhwa8362@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white">-->
+<br><br><br><br>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjjoina&count_bg=%2377DD77&title_bg=%23555555&icon=iconify.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
