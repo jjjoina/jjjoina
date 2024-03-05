@@ -1,7 +1,16 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:86fde8&fontColor=ffffff&height=250&section=header&text=Inhwa%20Cho&fontSize=90)
+
+<p>Hi there! 👋</p>
+
+
 # 📚 Stacks
+<!--
+https://img.shields.io/badge/<텍스트>-<색>?logo=<로고>
+로고와 색은 하기 참고
+https://simpleicons.org/
+-->
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -43,10 +52,13 @@
 
 # 📬 Contact Me
 <!--
-<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+https://img.shields.io/badge/<텍스트>-<색>?logo=<로고>
+로고와 색은 하기 참고
+https://simpleicons.org/
 -->
-<a href="https://velog.io/@jjjoina/posts"><img src="https://img.shields.io/badge/tech%20blog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
-<!--<img src="https://img.shields.io/badge/ihnhwa8362@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white">-->
+<a href="https://velog.io/@jjjoina/posts"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
+<img src="https://img.shields.io/badge/ihnhwa8362@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white">
+<a href="htts://www.instagram.com/jjjoina"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
 <br><br><br><br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjjoina&count_bg=%2377DD77&title_bg=%23555555&icon=iconify.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
