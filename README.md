@@ -47,7 +47,7 @@ https://simpleicons.org/
 # ✨ Stats
 [![jjjoina's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjjoina&show_icons=true&theme=shadow_green)](https://github.com/jjjoina)
 &nbsp;&nbsp;&nbsp;
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ihnhwa8362">
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ihnhwa8362)](https://solved.ac/ihnhwa8362)
 <br><br><br>
 
 # 📬 Contact Me
